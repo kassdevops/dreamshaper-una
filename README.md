@@ -36,10 +36,7 @@ Este projeto utiliza os seguintes conceitos estudados:
 .
 ├── README.md
 ├── docs/
-│   ├── boas-praticas.md
-│   └── planejamento.md
 └── src/
-    └── SistemaFolhaPagamento.java
 ```
 
 ---
