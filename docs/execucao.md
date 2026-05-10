@@ -50,12 +50,8 @@ Após a compilação, será gerado um arquivo `.class`, que representa o código
 Após compilar o projeto, execute:
 
 ```bash
-java -cp src SistemaFolhaPagamento
+java src.SistemaFolhaPagamento
 ```
-
-O parâmetro `-cp` significa `classpath` e informa ao Java onde procurar os arquivos compilados.
-
-Neste caso, o Java irá procurar a classe `SistemaFolhaPagamento` dentro da pasta `src`.
 
 ---
 
