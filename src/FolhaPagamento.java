@@ -1,3 +1,5 @@
+package src;
+
 public class FolhaPagamento {
     private static final double AUXILIO_ESTAGIARIO = 500.0;
 

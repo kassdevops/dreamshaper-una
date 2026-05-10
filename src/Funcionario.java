@@ -1,3 +1,5 @@
+package src;
+
 public class Funcionario {
     private String nome;
     private double salarioBase;

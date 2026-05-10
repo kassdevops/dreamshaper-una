@@ -1,5 +1,7 @@
+package src;
 import java.util.ArrayList;
 import java.util.Scanner;
+
 
 public class SistemaFolhaPagamento {
     private static ArrayList<Funcionario> funcionarios = new ArrayList<>();
