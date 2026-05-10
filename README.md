@@ -75,16 +75,10 @@ Cada tipo de vínculo possui uma regra específica de cálculo de salário.
 
 ## Como executar o projeto
 
-### Compilação
+### Compilação e Execução
 
 ```
-javac src/SistemaFolhaPagamento.java
-```
-
-### Execução
-
-```
-java -cp src SistemaFolhaPagamento
+javac src/* && java src.SistemaFolhaPagamento
 ```
 
 ---
