@@ -102,8 +102,8 @@ javac src/* && java src.SistemaFolhaPagamento
 
 ## Autores
 
-Henrique Alves de Almeida
-Kayky Silveira Silva
+- Henrique Alves de Almeida
+- Kayky Silveira Silva
 
 Projeto desenvolvido para fins acadêmicos.
 
